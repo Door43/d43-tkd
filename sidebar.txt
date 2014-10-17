@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tkd:home|Door43 (tkd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tkd|d43-tkd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tkd/archive/master.zip|d43-tkd.zip]]
+
+**Recent Changes**
+{{changes>ns = tkd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tkd|Ethnologue data]]
+
